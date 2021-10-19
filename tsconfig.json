@@ -17,11 +17,6 @@
     "jsx": "preserve",
     "baseUrl": ".",
     "jsxFactory": "h",
-    "paths": {
-      "@types/react": ["node_modules/preact/compat"],
-      "react": ["node_modules/preact/compat"],
-      "react-dom": ["node_modules/preact/compat"]
-    },
     "jsxFragmentFactory": "Fragment"
   },
   "include": ["src"]
